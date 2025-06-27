@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Smilecation – Dental Holiday Croatia</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; color: #333; }
+        header { background: #f0f0f0; padding: 30px 20px; text-align: center; }
+        header h1 { margin: 0; color: #0077b6; }
+        header p { font-size: 18px; margin-top: 10px; }
+        .section { padding: 40px 20px; max-width: 800px; margin: auto; }
+        .highlight { background-color: #e3f2fd; padding: 10px; border-left: 5px solid #0077b6; }
+        .cta { text-align: center; padding: 30px; background: #0077b6; color: white; }
+        .cta a { background: white; color: #0077b6; padding: 10px 20px; text-decoration: none; font-weight: bold; border-radius: 5px; }
+        footer { text-align: center; padding: 20px; font-size: 14px; background: #f8f9fa; color: #666; }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Smilecation</h1>
+    <p>Affordable Dental Care Meets a Luxury Croatian Getaway</p>
+</header>
+
+<section class="section">
+    <h2>What is Smilecation?</h2>
+    <p>
+        Smilecation is your path to a perfect smile — with a relaxing escape to the Croatian coast. We connect UK clients with top-tier dental treatment at <strong>Dentelin Dental Center</strong> in Rovinj, Croatia, while offering a full holiday experience: seaside accommodation, yacht tours, and more.
+    </p>
+</section>
+
+<section class="section highlight">
+    <h3>Included in Every Package:</h3>
+    <ul>
+        <li>✅ Dental Consultation & Imaging</li>
+        <li>✅ Premium Treatments: Implants, Crowns, Veneers</li>
+        <li>✅ Seaside Accommodation</li>
+        <li>✅ Airport Pickup & Local Transfers</li>
+        <li>✅ Optional Yacht Tours & Activities</li>
+    </ul>
+</section>
+
+<section class="section">
+    <h2>Why Smilecation?</h2>
+    <p>
+        UK dental costs are sky-high. With Smilecation, you save up to 60% while enjoying world-class care in a beautiful location. All procedures are performed by <strong>Dr. Danijela Komljenović Blitva</strong> and her experienced team at Dentelin.
+    </p>
+</section>
+
+<div class="cta">
+    <h2>Get a Free Quote</h2>
+    <p>Chat with us now to start your Smilecation journey.</p>
+    <a href="https://wa.me/YOURNUMBERHERE" target="_blank">Message Us on WhatsApp</a>
+</div>
+
+<footer>
+    Powered by Smilecation & Dentelin Dental Center • Rovinj, Croatia
+</footer>
+
+</body>
+</html>
